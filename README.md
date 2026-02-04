@@ -52,41 +52,41 @@ The project follows a structured analytics pipeline:
 
 ## Inventory Optimization
 
-Demand estimation based on production output.
+- Demand estimation based on production output.
 
-Safety Stock and Reorder Point (ROP) calculation.
+- Safety Stock and Reorder Point (ROP) calculation.
 
-Inventory simulation under lead time variability.
+- Inventory simulation under lead time variability.
 
-Scenario Simulation
+## Scenario Simulation
 
-Conservative operational improvement scenario (+3% output).
+- Conservative operational improvement scenario (+3% output).
 
-Impact on production volume, demand, and inventory policy.
+- Impact on production volume, demand, and inventory policy.
 
-Business Impact Estimation
+## Business Impact Estimation
 
-Translation of production gains into economic impact using a conservative unit margin assumption.
+- Translation of production gains into economic impact using a conservative unit margin assumption.
 
-Key Insights
+## Key Insights
 
-A small number of defect types concentrate most of the scrap (Pareto behavior).
+- A small number of defect types concentrate most of the scrap (Pareto behavior).
 
-High downtime events strongly correlate with low plan adherence.
+- High downtime events strongly correlate with low plan adherence.
 
-Operational improvements generate different returns depending on the production line scale and variability.
+- Operational improvements generate different returns depending on the production line scale and variability.
 
-Inventory policies must be adjusted when production capacity improves to avoid stockouts.
+- Inventory policies must be adjusted when production capacity improves to avoid stockouts.
 
 ## Recommendations
 
-Prioritize downtime reduction initiatives on high-impact production lines.
+- Prioritize downtime reduction initiatives on high-impact production lines.
 
-Focus quality improvement efforts on dominant defect categories.
+- Focus quality improvement efforts on dominant defect categories.
 
-Implement formal inventory replenishment policies based on ROP and Safety Stock.
+- Implement formal inventory replenishment policies based on ROP and Safety Stock.
 
-Review demand and lead time parameters periodically as operations evolve.
+- Review demand and lead time parameters periodically as operations evolve.
 
 ## Tools & Technologies
 
